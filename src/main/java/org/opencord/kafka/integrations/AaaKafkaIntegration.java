@@ -81,7 +81,7 @@ public class AaaKafkaIntegration {
     // topics
     private static final String TOPIC = "authentication.events";
     private static final String AUTHENTICATION_STATISTICS_TOPIC = "onos.aaa.stats.kpis";
-    private static final String RADIUS_OPERATION_STATUS_TOPIC = "radiusOperationalStatus.events";
+    private static final String RADIUS_OPERATION_STATUS_TOPIC = "radiusoperationalstatus.events";
     // auth event params
     private static final String TIMESTAMP = "timestamp";
     private static final String DEVICE_ID = "deviceId";
